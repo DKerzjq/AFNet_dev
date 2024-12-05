@@ -1,0 +1,7 @@
+*.png
+*.pth
+/AF_kitti*
+/viz
+/__pycache__/
+/pretrained_model
+/pretrained_model.zip
